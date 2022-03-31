@@ -1,2 +1,2 @@
 # Project Calculator Progate
-# with Javascript
+with Javascript
